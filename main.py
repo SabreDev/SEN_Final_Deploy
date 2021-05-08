@@ -72,7 +72,7 @@ common_list=dict({
 				"Andaman+and+Nicobar+Islands" : {'Port Blair','Diglipur','Prothrapur','Bakultala','Garacharma'}, 
 				"Delhi" : {'New Delhi','North Delhi','South Delhi','East Delhi','West Delhi'},
 				"Jammu+and+Kashmir" : {'Jammu','Ladakh','Srinagar','Leh','Patnitop'}, 
-				"Lakshadweep" : {'Kavaratti','Minicoy','Andrott','Amini','Kalpeni'}
+				"Lakshadweep" : {'Kavaratti','Minicoy','Andrott','Amini','Kalpeni'},
 				"gujarat" : {"Ahmedabad","Rajkot","Surat","Baroda","Dwarka"},
 				"sikkim" :  {"Gangtok","Gezing","Mangan","Lachung","Namchi"},
 				"andhra+pradesh" : {"Vishakapatnam","Vijayawada","Guntur","Nellore","Kurnool"},
