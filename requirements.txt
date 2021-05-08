@@ -1,0 +1,4 @@
+Flask_Caching==1.10.1
+Flask==1.1.2
+requests==2.18.4
+python_aqi==0.6.1
